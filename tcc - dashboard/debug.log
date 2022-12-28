@@ -1,0 +1,7 @@
+[0904/083235.985:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Bedhat\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
+[0904/083235.992:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0904/083235.995:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Bedhat\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
+[0904/083644.139:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Bedhat\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
+[0904/083644.153:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0904/083644.157:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0904/083644.159:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Bedhat\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
